@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Double-degree Engineer/Master of Télécom Physique Strasbourg in data science and signal and image processing.
+My name is Soufiane Fartit, I have a double-degree Engineer/Master of Télécom Physique Strasbourg in data science and signal and image processing.
 
 I love Data and I use Python to solve problems related to it.
 
