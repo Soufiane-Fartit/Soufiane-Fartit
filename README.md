@@ -14,6 +14,8 @@ Technical skills:
 I put some of my projects on github. Hope you like it 😄
 Have a nice day.
 
+[You can find me on LinkedIn](https://www.linkedin.com/in/soufiane-fartit)
+
 <!--
 **Soufiane-Fartit/Soufiane-Fartit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
