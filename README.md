@@ -5,7 +5,7 @@ My name is Soufiane Fartit, I have a double-degree Engineer/Master of Télécom 
 I love Data and I use Python to solve problems related to it.
 
 Technical skills: 
-- Languages (Python, Matlab, C ++)
+- Languages (Python, Matlab, C++)
 - Databases (SQL, NoSQL: MongoDB, Neo4j, Redis), Data Viz (Tableau)
 - Data Science (Scikit-Learn, Keras, Tensorflow, Numpy, Scipy, Pandas, pySpark, XGboost, OpenCV, Matplotlib, Seaborn)
 - API (Flask)
