@@ -11,7 +11,7 @@ Technical skills:
 - API (Flask)
 - Others (Git, DVC, Docker, Github Actions, Heroku, MLflow, Streamlit)
 
-I put some of my project on github. Hope you like it 😄
+I put some of my projects on github. Hope you like it 😄
 Have a nice day.
 
 <!--
