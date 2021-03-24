@@ -8,7 +8,7 @@ Technical skills:
 - Languages (Python, Matlab, C++)
 - Databases (SQL, NoSQL: MongoDB, Neo4j, Redis), Data Viz (Tableau)
 - Data Science (Scikit-Learn, Keras, Tensorflow, Numpy, Scipy, Pandas, pySpark, XGboost, OpenCV, Matplotlib, Seaborn)
-- API (Flask)
+- Web Dev (Flask, Django, HTML/CSS)
 - Others (Git, DVC, Docker, Github Actions, Heroku, MLflow, Streamlit)
 
 I put some of my projects on github. Hope you like it 😄
